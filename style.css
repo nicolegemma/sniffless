@@ -1,0 +1,21 @@
+body {
+	background-color: lightpink; font-family: futura;
+}
+h1{color: maroon; margin-left: 100px;}
+h3 {colour: blue; margin-left: 80px; }
+
+<body>
+<div class= "Flavors" > Vanilla</div>
+<div class= "Flavors" > Chocolate</div>
+<div class= "Flavors" > Strawberry</div>
+<div class= "Flavors" > id= "Favourite"> Mint </div>
+
+background-image: url("image.png"); 
+
+div {
+	background-color:lightgray;
+	width: 300px;
+	border:25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
